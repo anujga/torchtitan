@@ -6,6 +6,7 @@ build
 outputs
 dist/*
 
+**/output
 # data
 data
 out
